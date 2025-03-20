@@ -79,4 +79,4 @@ ENFP지만… E 중에서도 I에 가까운 편! 🏕️ <br>
 ###
 
 <h2 align="left">공부 기록</h2>
-**[📦 Study Log 바로가기](https://github.com/HyeEmpathyDev/Study-log)**
+<a href="https://github.com/HyeEmpathyDev/Study-log">📦 Studylog 바로가기</a>
