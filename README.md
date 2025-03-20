@@ -1,3 +1,6 @@
+<h3 align="right"><a href="https://github.com/HyeEmpathyDev/Study-log">📦StudyLog</a></h3>
+
+###
 <h1 align="left">About me</h1>
 
 ###
@@ -29,7 +32,7 @@ ENFP지만… E 중에서도 I에 가까운 편! 🏕️ <br>
 
 ![My Profile Image](assets/star.jpg)
 
-<h2 align="left">TMI</h2>
+<h1 align="left">TMI</h1>
 <p align="left">😆 코딩을 해보고 싶어서 승진하자마자 명예퇴직! 그렇게... 최연소 명퇴자 타이틀을… 😂<br>
 
 🍻🍖 맛있는 음식이랑 술 마시는 걸 좋아하는데… 얼마 전에 교정을 시작해서 먹기가 힘들어요😭 (곧 괜찮아지면 같이 먹으러 가요!)<br>
@@ -64,6 +67,7 @@ ENFP지만… E 중에서도 I에 가까운 편! 🏕️ <br>
 
 ✔ 금융 IT 실무 프로젝트<br>
 ✔ 현직자 멘토링까지!<br>
+</p>
 
 ###
 
@@ -78,5 +82,3 @@ ENFP지만… E 중에서도 I에 가까운 편! 🏕️ <br>
 
 ###
 
-<h2 align="left">공부 기록</h2>
-<a href="https://github.com/HyeEmpathyDev/Study-log">📦 Studylog 바로가기</a>
